@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Sacramento&display=swap');
+body{
+    margin: 0;
+    text-align: center;
+    max-height: fit-content;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container{
+ 
+    background-color: #ebf4f3;
+    padding-top: 200px;
+    position: relative;
+   
+   
+}
+h1{
+    font-family: 'Sacramento', cursive;
+}
+p{
+    font-family: 'Lobster Two', cursive;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 430px;
+    top: 90px;
+}
+
+.text{
+    margin-bottom: 80px;
+   
+}
+.profile img{
+    height: 200px;
+}
+.skill-row1 {
+    float:left; 
+    width:25%;
+    height:280px;
+}
+.skill-row2{
+    float:left; 
+    width:25%;
+    height:200px;
+}
+.skill-row3{
+    float:right;
+    width:25%;
+    height:280px;
+}
+.skill-row4{
+    float:left;
+    width:25%;
+    height:280px;
+}
+.images{
+height: 200px;
+}
